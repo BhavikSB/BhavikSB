@@ -30,7 +30,7 @@
 
 📫 I am actively seeking **Software Development Engineer (SDE)** and **Full-Stack Developer** opportunities where I can leverage my expertise to build impactful, innovative solutions. Let's connect and build something great!
 
-* 🌍  I'm based in **Ahmedabad, Gujarat, India**
+* 🌍  I'm based in **Mehsana, Gujarat, India**
 * ✉️  You can contact me at [bhavik131204@gmail.com](mailto:bhavik131204@gmail.com)
 
 ---
