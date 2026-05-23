@@ -79,7 +79,6 @@
   <img src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" title="Vercel" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" title="Netlify" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" title="Render" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" title="Google Gemini" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" title="Solidity" width="36" height="36" />
@@ -87,6 +86,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" width="36" height="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
 </p>
 
 ---
