@@ -91,33 +91,6 @@
 
 ---
 
-### 💼 Experience
-
-**Developer Intern** | Space Applications Centre (SAC) - ISRO 
-*Jan 2026 - May 2026 | Ahmedabad, Gujarat*
-- Developed a centralized Facility Booking System with real-time calendar interaction using FullCalendar.js to automate resource allocation and streamline efficient internal scheduling.
-- Integrated ISRO’s CAS and COWAA for secure authentication/authorization, and implemented conflict resolution.
-- **Tech Stack:** Spring Boot, Java, MySQL, Thymeleaf, Bootstrap, Spring Security.
-
-**Web Developer & Coordinator** | Convergence 2025 (Ganpat University)
-*May 2025 - Aug 2025 | Mehsana, Gujarat*
-- Developed and managed the official website for a national-level technical symposium accommodating 1000+ participants.
-- Enabled seamless event registration, payment processing via Razorpay, and ensured responsive cross-device user experience.
-- **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap.
-
----
-
-### 🚀 Featured Projects
-
-* **[JobWallah](https://github.com/BhavikSB)** | *React.js, Spring Boot, MongoDB, REST APIs*
-  Developed a full-stack job portal integrating secure authentication and job management. Simplified recruitment through interactive dashboards and real-time communication between employers and job seekers with an intuitive modern UI.
-* **[BrainStat: AI Habit Tracker](https://github.com/BhavikSB)** | *React.js, Node.js, Express, MongoDB, Gemini AI, Tailwind CSS*
-  Built a full-stack AI-powered habit tracker featuring a responsive glassmorphism UI, a GitHub-style 90-day heatmap, and comprehensive analytics. Integrated Google Gemini AI to deliver personalized weekly reports and data analysis.
-* **[B-Spark Electronics](https://github.com/BhavikSB)** | *Java (Servlets, JSP), MySQL, Bootstrap*
-  Developed a fully functional e-commerce platform featuring a dynamic product catalog, shopping cart, admin panel, automated emails, and an order management system using Advanced Java technologies.
-
----
-
 ### 🏆 Achievements & Extracurriculars
 
 - 🥇 **1st Rank** - B.Tech Computer Engineering (9.71 CGPA), Ganpat University
