@@ -100,6 +100,7 @@
 - 🧠 **AI Team Member** - GUNI Centre For Artificial Intelligence
 - 💻 **Participant** - New India Vibrant Hackathon 2023 (SSIP) & Research Conclave 2025
 
+---
 
 ### 📊 GitHub Stats
 
