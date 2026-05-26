@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I am a Software Developer and recent Computer Engineering graduate (**9.71 CGPA - 1st Rank**) driven by a passion for designing scalable software and solving complex technical challenges. I thrive on architecting robust, end-to-end applications and continuously pushing the boundaries of what I can build.
+🎓 I am a Software Developer and recent Computer Engineering graduate (**9.71 CGPA - Gold Medalist**) driven by a passion for designing scalable software and solving complex technical challenges. I thrive on architecting robust, end-to-end applications and continuously pushing the boundaries of what I can build.
 
 🚀 During my tenure as a Developer Intern at the **Space Applications Centre (SAC) - ISRO**, I spearheaded the development of a centralized Facility Booking System. By engineering secure, real-time calendar interactions and optimizing database workflows, I successfully streamlined internal resource allocation for the organization.
 
@@ -97,7 +97,7 @@
 
 ### 🏆 Achievements & Extracurriculars
 
-- 🥇 **1st Rank** - B.Tech Computer Engineering (9.71 CGPA), Ganpat University
+- 🥇 **Gold Medalist** - B.Tech Computer Engineering (9.71 CGPA), Ganpat University
 - 🥈 **1st Runner-Up** - Code Connection (National-level coding competition), Convergence 2024
 - 🤖 **Semi-Finalist** - Autonomous Maze-Solving Robot Category, Robofest 4.0 (GUJCOST)
 - 🤝 **IT Team Coordinator & Volunteer** - National Additive Manufacturing Conclave 2025
