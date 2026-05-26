@@ -111,3 +111,20 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikSB&theme=tokyonight&hide_border=true&dates=ffffff" alt="GitHub Streak" />
 </div>
+
+<br>
+
+<div align="center">
+<a href="https://github.com/BhavikSB">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhavikSB&theme=tokyonight&hide_border=true&dates=ffffff" height="180em" />  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BhavikSB&theme=tokyonight&hide_border=true&dates=ffffff" height="180em" />
+</div>
+  <br>
+  <div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhavikSB&theme=tokyonight&hide_border=true&dates=ffffff" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhavikSB&theme=tokyonight&hide_border=true&dates=ffffff" height="180em" />
+  </div>
+  <br>
+  <div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhavikSB&theme=tokyonight&hide_border=true&dates=ffffff" height="180em" />
+</div>
